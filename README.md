@@ -33,9 +33,5 @@ Tap on the '+' button to add a new task. Fill in the details and tap 'Save'.
 To edit a task, tap on the 'Edit' icon next to the task.
 To delete a task, tap on the 'Delete' icon next to the task.
 
-Images for compliting task 
--Task List:- <img src="./assets/task_List.png" alt="App Screenshot" width="600"/>,
--Edit:-<img src="./assets/task edit.png" alt="App Screenshot" width="600"/>,
--New Task Adding:- <img src="./assets/Insert Task.png" alt="App Screenshot" width="600"/>,
--Databse:- <img src="./assets/Mongo_db.png" alt="App Screenshot" width="600"/>,
+
 
